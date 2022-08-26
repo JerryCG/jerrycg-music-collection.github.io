@@ -81,7 +81,7 @@ function getArtists() {
         {
             artistName:"Sohyang",
             musics:[
-                {id:4},{id:26},{id:31},{id:32},{id:99},{id:100},{id:112},
+                {id:4},{id:26},{id:31},{id:32},{id:99},{id:100},{id:112},{id:229},
                 {id:392},{id:393},{id:394},{id:395},{id:396},{id:397},{id:398},
                 {id:416},{id:486},{id:488},{id:493},{id:596},{id:597},{id:598},
             ]

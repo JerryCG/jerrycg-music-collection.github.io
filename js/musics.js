@@ -1599,9 +1599,9 @@ function getMusics() {
         {
             id:229,
             genre:"Korean Pop",
-            src:"music/aiqinga_theone.mp3",
+            src:"music/aiqinga_sohyang.mp3",
             name:"사랑아 (爱情啊)",
-            artist:"The One"
+            artist:"Sohyang"
         },
         {
             id:230,
@@ -2146,7 +2146,7 @@ function getMusics() {
             id:307,
             genre:"Western Pop",
             src:"music/aintnobody_jessiej.mp3",
-            name:"Ain's Nobody",
+            name:"Ain't Nobody",
             artist:"Jessie J"
         },
         {
