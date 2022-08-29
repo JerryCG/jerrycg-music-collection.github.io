@@ -5047,5 +5047,40 @@ function getMusics() {
             name:"Emotional Cinematic",
             artist:"AShamaluevMusic"
         },
+        {
+            id:722,
+            genre:"Light Music",
+            src:"music/fanhualuojin_lanbulin.mp3",
+            name:"繁花落尽",
+            artist:"蓝布霖"
+        },
+        {
+            id:723,
+            genre:"Light Music",
+            src:"music/windscaress.mp3",
+            name:"Wind's Caress",
+            artist:"Mattia Vlad Morleo"
+        },
+        {
+            id:724,
+            genre:"Light Music",
+            src:"music/galatea.mp3",
+            name:"Galatea",
+            artist:"Oskar Schuster"
+        },
+        {
+            id:725,
+            genre:"Light Music",
+            src:"music/floating_roberto.mp3",
+            name:"Floating (漂浮的)",
+            artist:"Roberto Cacciapaglia"
+        },
+        {
+            id:726,
+            genre:"Light Music",
+            src:"music/xingherumeng_dylanf.mp3",
+            name:"星河入梦",
+            artist:"dylanf"
+        },
     ]
 }
