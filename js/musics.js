@@ -5082,5 +5082,26 @@ function getMusics() {
             name:"星河入梦",
             artist:"dylanf"
         },
+        {
+            id:727,
+            genre:"Light Music",
+            src:"music/huaerdiaolingdeshijie_revo.mp3",
+            name:"花が散る世界（花儿凋零的世界）",
+            artist:"Revo"
+        },
+        {
+            id:728,
+            genre:"Epic",
+            src:"music/senbonzakura_lindsaystirling.mp3",
+            name:"Senbonzakura",
+            artist:"Lindsay Stirling"
+        },
+        {
+            id:729,
+            genre:"Korean Pop",
+            src:"music/sweetdreamsmydear_sohyang.mp3",
+            name:"Sweet Dreams, My Dear",
+            artist:"Sohyang"
+        },
     ]
 }
