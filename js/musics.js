@@ -5103,5 +5103,26 @@ function getMusics() {
             name:"Sweet Dreams, My Dear",
             artist:"Sohyang"
         },
+        {
+            id:730,
+            genre:"Chinese Pop",
+            src:"music/xingguangxiademengxiang_wangzaixiaoqiao.mp3",
+            name:"星光下的梦想",
+            artist:"旺仔小乔"
+        },
+        {
+            id:731,
+            genre:"Epic",
+            src:"music/memoryoftheflow_zhibumiedeniost.mp3",
+            name:"Memory of the Flow",
+            artist:"致不灭的你OST"
+        },
+        {
+            id:732,
+            genre:"Japanese Pop",
+            src:"music/mementomoriost.mp3",
+            name:"MementoMori OST",
+            artist:"MementoMori"
+        },
     ]
 }
