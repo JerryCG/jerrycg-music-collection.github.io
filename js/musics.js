@@ -5124,5 +5124,33 @@ function getMusics() {
             name:"MementoMori OST",
             artist:"MementoMori"
         },
+        {
+            id:733,
+            genre:"Western Pop",
+            src:"music/trustfall_pink.mp3",
+            name:"Trustfall",
+            artist:"P!NK"
+        },
+        {
+            id:734,
+            genre:"Chinese Pop",
+            src:"music/cangwukecang_naying.mp3",
+            name:"藏无可藏",
+            artist:"那英"
+        },
+        {
+            id:735,
+            genre:"Epic",
+            src:"music/starsatdawn_zhibumiedeni.mp3",
+            name:"Stars at Dawn",
+            artist:"致不灭的你OST"
+        },
+        {
+            id:736,
+            genre:"Japanese Pop",
+            src:"music/reqingguangpu_wanwuguzhang.mp3",
+            name:"热情光谱 熱情のスペクトラム 七大罪S1OP",
+            artist:"万物股长"
+        },
     ]
 }
