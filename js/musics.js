@@ -5152,5 +5152,33 @@ function getMusics() {
             name:"热情光谱 熱情のスペクトラム 七大罪S1OP",
             artist:"万物股长"
         },
+        {
+            id:737,
+            genre:"Japanese Pop",
+            src:"music/sakura_wanwuguzhang.mp3",
+            name:"SAKURA",
+            artist:"万物股长"
+        },
+        {
+            id:738,
+            genre:"Western Pop",
+            src:"music/sofaraway.mp3",
+            name:"So Far Away",
+            artist:"Martin Garrix & David Guetta"
+        },
+        {
+            id:739,
+            genre:"Western Pop",
+            src:"music/farawayfromhome.mp3",
+            name:"Far Away From Home",
+            artist:"Groove Coverage"
+        },
+        {
+            id:740,
+            genre:"Chinese Pop",
+            src:"music/chunqiudongxia_tanjing.mp3",
+            name:"春秋冬夏",
+            artist:"谭晶"
+        },
     ]
 }
