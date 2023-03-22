@@ -5180,5 +5180,26 @@ function getMusics() {
             name:"春秋冬夏",
             artist:"谭晶"
         },
+        {
+            id:741,
+            genre:"Chinese Pop",
+            src:"music/feifei_chenxiyi.mp3",
+            name:"蜚蜚",
+            artist:"陳僖儀"
+        },
+        {
+            id:742,
+            genre:"Chinese Pop",
+            src:"music/jiejie_huangqishan.mp3",
+            name:"姐姐",
+            artist:"黄绮珊"
+        },
+        {
+            id:743,
+            genre:"Chinese Pop",
+            src:"music/shenghuozonggaiyingzheguangliang_zhoushen.mp3",
+            name:"生活总该迎着光亮",
+            artist:"周深"
+        },
     ]
 }
