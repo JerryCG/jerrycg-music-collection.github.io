@@ -5201,5 +5201,12 @@ function getMusics() {
             name:"生活总该迎着光亮",
             artist:"周深"
         },
+        {
+            id:744,
+            genre:"Korean Pop",
+            src:"music/onlymyheartknows_sohyang.mp3",
+            name:"Only My Heart Knows (가슴만 알죠) 사의찬미 Hymn Of Death OST",
+            artist:"Sohyang"
+        },
     ]
 }
