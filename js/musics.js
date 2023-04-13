@@ -5208,5 +5208,12 @@ function getMusics() {
             name:"Only My Heart Knows (가슴만 알죠) 사의찬미 Hymn Of Death OST",
             artist:"Sohyang"
         },
+        {
+            id:745,
+            genre:"Chinese Pop",
+            src:"music/kongchuang_xinxiaoqi.mp3",
+            name:"空窗",
+            artist:"辛晓琪"
+        },
     ]
 }
