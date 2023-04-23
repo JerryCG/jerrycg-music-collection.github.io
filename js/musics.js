@@ -5215,5 +5215,12 @@ function getMusics() {
             name:"空窗",
             artist:"辛晓琪"
         },
+        {
+            id:746,
+            genre:"Western Pop",
+            src:"music/thehardway_celinedion.mp3",
+            name:"The Hard Way",
+            artist:"Celine Dion"
+        },
     ]
 }
