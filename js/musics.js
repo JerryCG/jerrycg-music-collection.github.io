@@ -5222,5 +5222,12 @@ function getMusics() {
             name:"The Hard Way",
             artist:"Celine Dion"
         },
+        {
+            id:747,
+            genre:"Chinese Pop",
+            src:"music/guiling_linyilian.mp3",
+            name:"归零",
+            artist:"林忆莲"
+        },
     ]
 }
