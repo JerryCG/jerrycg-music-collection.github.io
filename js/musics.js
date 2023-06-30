@@ -5229,5 +5229,47 @@ function getMusics() {
             name:"归零",
             artist:"林忆莲"
         },
+        {
+            id:748,
+            genre:"Western Pop",
+            src:"music/legendsneverdie.mp3",
+            name:"Legends Never Die",
+            artist:"Against the Current"
+        },
+        {
+            id:749,
+            genre:"Chinese Pop",
+            src:"music/rangwoliuzainishenbian_eason.mp3",
+            name:"让我留在你身边",
+            artist:"陈奕迅 Eason"
+        },
+        {
+            id:750,
+            genre:"Chinese Pop",
+            src:"music/zuichudeai_zhangliangying.mp3",
+            name:"最初的爱",
+            artist:"张靓颖"
+        },
+        {
+            id:751,
+            genre:"Japanese Pop",
+            src:"music/qiannianzhilian_zhima.mp3",
+            name:"千年之恋",
+            artist:"芝麻"
+        },        
+        {
+            id:752,
+            genre:"Japanese Pop",
+            src:"music/xiayizhantianhou_twins.mp3",
+            name:"下一站天后",
+            artist:"Twins"
+        },
+        {
+            id:753,
+            genre:"Western Pop",
+            src:"music/whatarewords_chrismedina.mp3",
+            name:"What Are Words",
+            artist:"Chris Medina"
+        },
     ]
 }
