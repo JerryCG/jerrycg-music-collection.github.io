@@ -5271,5 +5271,19 @@ function getMusics() {
             name:"What Are Words",
             artist:"Chris Medina"
         },
+        {
+            id:754,
+            genre:"Chinese Pop",
+            src:"music/ruguowomenbucengxiangyu_wuyuetian.mp3",
+            name:"如果我们不曾相遇",
+            artist:"五月天"
+        },
+        {
+            id:755,
+            genre:"Japanese Pop",
+            src:"music/zuihouyiciqinwenni_majiko.mp3",
+            name:"最后一次亲吻你 君に最後の口づけを",
+            artist:"Majoko まじ娘"
+        },
     ]
 }
