@@ -5285,5 +5285,12 @@ function getMusics() {
             name:"最后一次亲吻你 君に最後の口づけを",
             artist:"Majoko まじ娘"
         },
+        {
+            id:756,
+            genre:"Chinese Pop",
+            src:"music/hongsegaogenxie_caijianya.mp3",
+            name:"红色高跟鞋",
+            artist:"蔡健雅"
+        },
     ]
 }
