@@ -5292,5 +5292,40 @@ function getMusics() {
             name:"红色高跟鞋",
             artist:"蔡健雅"
         },
+        {
+            id:757,
+            genre:"Western Pop",
+            src:"music/cupid_fiftyfifty.mp3",
+            name:"Cupid",
+            artist:"Fifty Fifty"
+        },
+        {
+            id:758,
+            genre:"Japanese Pop",
+            src:"music/letmehear_romaji.mp3",
+            name:"Let Me Hear (寄生兽OP)",
+            artist:"Romaji"
+        },
+        {
+            id:759,
+            genre:"Western Pop",
+            src:"music/dubidubidu_christell.mp3",
+            name:"Dubidubidu",
+            artist:"Christell"
+        },
+        {
+            id:760,
+            genre:"Japanese Pop",
+            src:"music/nexttoyou_kenarai.mp3",
+            name:"Next to You (寄生兽OST)",
+            artist:"Ken Arai"
+        },
+        {
+            id:761,
+            genre:"Japanese Pop",
+            src:"music/speak_unknown.mp3",
+            name:"Speak (寄生兽 Migi's Theme)",
+            artist:"Unknown"
+        },
     ]
 }
