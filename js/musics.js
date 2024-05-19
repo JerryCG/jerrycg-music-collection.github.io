@@ -5327,5 +5327,26 @@ function getMusics() {
             name:"Speak (寄生兽 Migi's Theme)",
             artist:"Unknown"
         },
+        {
+            id:762,
+            genre:"Chinese Pop",
+            src:"music/zuihouyiye_jiangyuchen.mp3",
+            name:"最后一页",
+            artist:"江语晨"
+        },
+        {
+            id:763,
+            genre:"Chinese Pop",
+            src:"music/nianlun_wangsulong.mp3",
+            name:"年轮",
+            artist:"汪苏泷"
+        },
+        {
+            id:764,
+            genre:"Chinese Pop",
+            src:"music/yinggema_haya.mp3",
+            name:"英格玛",
+            artist:"HAYA"
+        },
     ]
 }
