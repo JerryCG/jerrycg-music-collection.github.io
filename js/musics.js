@@ -5348,5 +5348,12 @@ function getMusics() {
             name:"英格玛",
             artist:"HAYA"
         },
+        {
+            id:765,
+            genre:"Western Pop",
+            src:"music/alwaysrememberusthisway_ladygaga.mp3",
+            name:"Always Remember Us This Way",
+            artist:"Lady Gaga"
+        },
     ]
 }
