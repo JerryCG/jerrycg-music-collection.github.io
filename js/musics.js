@@ -5355,5 +5355,26 @@ function getMusics() {
             name:"Always Remember Us This Way",
             artist:"Lady Gaga"
         },
+        {
+            id:766,
+            genre:"Chinese Pop",
+            src:"music/mayizhuqigaota_mountains.mp3",
+            name:"蚂蚁筑起高塔",
+            artist:"Mountains群玉山"
+        },
+        {
+            id:767,
+            genre:"Chinese Pop",
+            src:"music/fuzhongyiwanjinzhangda_taiyi.mp3",
+            name:"负重一万斤长大",
+            artist:"太一"
+        },
+        {
+            id:768,
+            genre:"Western Pop",
+            src:"music/whereisthelove_theblackeyedpeas.mp3",
+            name:"Where is the Love",
+            artist:"The Black Eyed Peas"
+        },
     ]
 }
