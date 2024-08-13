@@ -5376,5 +5376,12 @@ function getMusics() {
             name:"Where is the Love",
             artist:"The Black Eyed Peas"
         },
+        {
+            id:769,
+            genre:"Chinese Pop",
+            src:"music/tianruoyouqing_alin.mp3",
+            name:"天若有情",
+            artist:"A-Lin"
+        },
     ]
 }
